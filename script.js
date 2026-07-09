@@ -1,8 +1,8 @@
 const IMAGES = [
-  "エジプト_一覧.pdf",
-  "ツタンカーメン.pdf",
-  "陶製供物壺.pdf",
-  "知恵の守護者.pdf",
+  "ichiran.jpg",
+  "1.jpg",
+  "2.jpg",
+  "3.jpg",
 ];
 
 const ZONES = [
